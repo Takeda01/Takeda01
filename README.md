@@ -24,4 +24,4 @@
 <img align="right" width = 400 src="https://user-images.githubusercontent.com/108302892/193114525-380aca1a-0f71-4157-ae91-7f1921ef3220.png" >
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takeda01&show_icons=true&locale=en&layout=compact" alt="takeda01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takeda01&show_icons=true&locale=en" alt="takeda01" /></p>
+
