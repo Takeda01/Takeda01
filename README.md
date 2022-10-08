@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **stasikn@abv.bg**
   
-- "Out of sight,out of mind"
+- "Out of sight, out of mind"
 
 - ⚡ Fun fact **I am also interested in national languages, not just code ones.**
 
