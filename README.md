@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Takeda  
 <h3 align="center">You know you've grown, when you realise how much Front-End is better than Back-End..</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=takeda01&label=Profile%20views&color=0e75b6&style=flat" alt="takeda01" /> </p>
+
 
 - 📫 How to reach me: **stasikn@abv.bg**
   
