@@ -1,14 +1,13 @@
 
 
 
-<h1 align="center">Hi there, I'm Takeda Takeda</h1>
+<h1 align="center">Hi there, I'm Takeda</h1>
 <h3 align="center">You know you're grown when you realise how much Front-End is better than Back-End..</h3>
 <p align="center">
-   <a href="#0"><img src=" width = 400></a>
+   <a href="#0"><img src="https://www.barcelonacodeschool.com/static/awesome_css-84ef38fd1c55e5ebea09bd3bd2f03ff1.jpg" width = 400 align = "right"></a>
 </p>
-<p align="left"> <img src="https://www.barcelonacodeschool.com/static/awesome_css-84ef38fd1c55e5ebea09bd3bd2f03ff1.jpg" alt="takeda01" /> </p>
 
-- 📫 How to reach me **stasikN@abv.bg**
+- 📫 How to reach me **stasikn@abv.bg**
 
 - ⚡ Fun fact **I am interested in national languages not just code ones.**
 
