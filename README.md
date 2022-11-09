@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm Takeda Takeda</h1>
 <h3 align="center">You know you're grown when you realise how much Front-End is better than Back-End..</h3>
 <p align="center">
-   <a href="#0"><img src="[https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcss-tricks.com%2Fcss-is-in-fact-awesome%2F&psig=AOvVaw12lZCqDAiyRrCR3z8smxAv&ust=1668117308513000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCgtq-LovsCFQAAAAAdAAAAABAE)" width = 400></a>
+   <a href="#0"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcss-tricks.com%2Fcss-is-in-fact-awesome%2F&psig=AOvVaw12lZCqDAiyRrCR3z8smxAv&ust=1668117308513000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCgtq-LovsCFQAAAAAdAAAAABAE" width = 400></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takeda01&label=Profile%20views&color=0e75b6&style=flat" alt="takeda01" /> </p>
 
