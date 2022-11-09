@@ -6,7 +6,7 @@
 <p align="center">
    <a href="#0"><img src=" width = 400></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=takeda01&label=Profile%20views&color=0e75b6&style=flat" alt="takeda01" /> </p>
+<p align="left"> <img src="https://www.barcelonacodeschool.com/static/awesome_css-84ef38fd1c55e5ebea09bd3bd2f03ff1.jpg" alt="takeda01" /> </p>
 
 - 📫 How to reach me **stasikN@abv.bg**
 
