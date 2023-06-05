@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi there, I'm Takeda</h1>
-<h3 align="center">You know you're grown when you realise how much Front-End is better than Back-End..</h3>
+<h3 align="center">My biigest realisaion was how much Front-End is better than Back-End..</h3>
 <p align="center">
    <a href="#0"><img src="https://www.barcelonacodeschool.com/static/awesome_css-84ef38fd1c55e5ebea09bd3bd2f03ff1.jpg" width = 400 align = "right"></a>
 </p>
