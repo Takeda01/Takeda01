@@ -9,7 +9,12 @@
 
 - 📫 How to reach me **stasikn@abv.bg**
 
-- ⚡ Fun fact **I am interested in national languages not just code ones.**
+- ⚡ **Able to communicate in multiple languages - English Spanish Bulgarian Serbian .**
+
+- ⚡ **Owns C1 CAE Certificate**
+
+- ⚡**Basic knowledge of Russian and French**
+
 
 <h3 align="left">Contact me at:</h3>
 <p align="left">
